@@ -2,5 +2,5 @@
 VersionList
 
 
-# This is an <1.00.42> tag
+# Ver1.00.42
 *keypro identification logic modification
