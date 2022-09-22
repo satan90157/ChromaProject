@@ -1,4 +1,4 @@
 # ChromaProject
 VersionList
 
-*Keypro辨識邏輯修改
+*keypro identification logic modification
